@@ -1,0 +1,128 @@
+.login-body{
+	background-image: url(https://www.navigatingparenthood.com/wp-content/uploads/2014/10/2.png);
+	height: 648px; 
+	width:100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mail{
+  width: 302px;
+  height: 27px;
+  margin-top: 72px;
+  margin-left: 32px;
+  
+  border-radius: 8px;
+    border-color: rgba(0,0,0,0.5);
+    border: none;
+    outline: 0;
+    background: transparent;
+    border-bottom: 2px solid black ;
+    transition: 0.3s ease;
+    color: blanchedalmond;
+}
+.name1{
+   width: 302px;
+  height: 27px;
+  margin-top: 72px;
+  margin-left: 32px;
+  
+  border-radius: 8px;
+    border-color: rgba(0,0,0,0.5);
+    border: none;
+    outline: 0;
+    background: transparent;
+    border-bottom: 2px solid black ;
+    transition: 0.3s ease;
+    color: black;
+}
+.name2{
+   width: 302px;
+  height: 27px;
+  margin-top: 72px;
+  margin-left: 32px;
+  
+  border-radius: 8px;
+    border-color: rgba(0,0,0,0.5);
+    border: none;
+    outline: 0;
+    background: transparent;
+    border-bottom: 2px solid black ;
+    transition: 0.3s ease;
+    color: blue;
+}
+.pass-signup{
+  width: 302px;
+  height: 27px;
+  margin-top: 59px;
+  margin-left: 32px;
+  
+  border-radius: 8px;
+    border-color: rgba(0,0,0,0.5); 
+    border: none;
+    outline: 0;
+    background: transparent;
+    border-bottom: 2px solid black  ;
+    transition: 0.3s ease;
+    color: white;
+}
+.back-home{
+  display: inline;
+  line-height: 42px;
+  margin: 0 5px;
+  border: 2px solid black;
+  background:#7a9694;
+  padding: 9px;
+  color: white;
+  text-decoration:none;
+  border-radius: 30px;
+  box-shadow: black;
+  margin-left: 15px;
+}
+.form-style-r{
+  background-color: rgba(84, 142, 235,0.3);
+  width: 381px;
+  margin-top: -78px;
+  height: 517px;
+}
+.login-box-r{
+  margin-top: 104px;
+    width: 67%;
+    float: right;
+    border-radius: 3px;
+}
+.login-slogan{
+  padding-top: 198px;
+  margin-top: -158px;
+  margin-left: 80px;
+  font-family: monospace;
+  color: blue;
+}
+.Register{
+	display: inline;
+  line-height: 93px;
+  margin-left: 149px;
+}
+.ftr{
+  color: blue;
+    margin-top: -50px;
+    margin-left: 92px;
+    width: 141px;
+}
+.sign{
+      margin-left: 234px;
+    width: 18%;
+    margin-top: -41px;
+    color: black;
+}
+.login-sentance{
+  color: blue;
+  letter-spacing: 1px;
+}
+.sub-r{
+ margin-top: 42px;
+    margin-left: 1px;
+    background-color: rgba(0,0,0,0.1);
+    color: black;
+    height: 32px;
+    width: 69px;
+}
